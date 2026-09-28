@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="HOPE heart mark">
+  <!-- Two figures embracing to form a heart: the "O" of HOPE -->
+  <circle cx="21" cy="12" r="6.5" fill="#E9A23B"/>
+  <circle cx="43" cy="12" r="6.5" fill="#4E7F95"/>
+  <path d="M32 58 C18 47 6 38 6 26 C6 20 10 17 15 19 C22 22 27 29 32 36 Z" fill="#E9A23B"/>
+  <path d="M32 58 C46 47 58 38 58 26 C58 20 54 17 49 19 C42 22 37 29 32 36 Z" fill="#4E7F95"/>
+  <path d="M32 36 C29 32 26 29 22 27" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" opacity=".7"/>
+</svg>
